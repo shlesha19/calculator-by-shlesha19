@@ -15,6 +15,8 @@ body {
 .calculator {
   position: relative;
   display: grid;
+  height: 100vh;
+  width: 100%;
 }
 
 .calculator .value {
