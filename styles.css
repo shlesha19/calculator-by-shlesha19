@@ -36,5 +36,10 @@ body {
   background: #0c2835;
   place-items: center;
   border: 1px solid rgba (0,0,0,.1);
-  
+
+}
+
+.calculator span:active {
+  background: #74ff3b;
+  color: #111;
 }
