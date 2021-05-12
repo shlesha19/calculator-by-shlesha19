@@ -31,7 +31,7 @@ grid-column: span 4;
   color: #fff;
   background: rgb(116, 2, 116);
   place-items: center;
-  border: 0px solid rgba (0,0,0,.1);
+  border: solid rgba (0,0,0,.1);
 
 }
 
