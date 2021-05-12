@@ -9,7 +9,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
   background: rgb(27, 3, 65);
 }
 
@@ -22,9 +21,6 @@ body {
 grid-column: span 4;
   height: 100px;
   text-align: right;
-  border: none;
-  outline: none;
-  
   font-size: 18px;
 }
 
