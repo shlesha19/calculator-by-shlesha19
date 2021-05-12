@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #070135;
+  background: rgb(27, 3, 65);
 }
 
 .calculator {
@@ -33,7 +33,7 @@ body {
   width: 60px;
   height: 60px;
   color: #fff;
-  background: #490675;
+  background: rgb(66, 2, 66);
   place-items: center;
   border: 1px solid rgba (0,0,0,.1);
 
