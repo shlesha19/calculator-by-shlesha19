@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgb(27, 3, 65);
+  background: #091921;
 }
 
 .calculator {
@@ -30,14 +30,14 @@ grid-column: span 4;
   width: 60px;
   height: 60px;
   color: #fff;
-  background: rgb(116, 2, 116);
+  background: #0c2835;
   place-items: center;
   border: solid rgba (0,0,0,.1);
 
 }
 
 .calculator span:active {
-  background: #d696f3;
+  background: #f074bc;
   color: #111;
 }
 
