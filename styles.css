@@ -27,8 +27,8 @@ grid-column: span 4;
 
 .calculator span {
   display: grid;
-  width: 110px;
-  height: 110px;
+  width: 60px;
+  height: 60px;
   color: #fff;
   background: rgb(116, 2, 116);
   place-items: center;
@@ -43,13 +43,13 @@ grid-column: span 4;
 
 .calculator span.clear {
   grid-column: span 2;
-  min-width: 110px;
+  min-width: 120px;
   background: #1ec4ee;
 }
 
 .calculator span.plus {
   grid-row: span 2;
-  min-height: 110px;
+  min-height: 120px;
 
 }
 
