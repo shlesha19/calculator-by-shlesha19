@@ -19,12 +19,12 @@ body {
 }
 
 .calculator .value {
-  grid-column: span 4;
+grid-column: span 4;
   height: 100px;
   text-align: right;
   border: none;
   outline: none;
-  padding: 10px;
+  
   font-size: 18px;
 }
 
